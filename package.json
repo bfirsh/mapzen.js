@@ -1,6 +1,6 @@
 {
   "name": "mapzen.js",
-  "version": null,
+  "version": "0.9.0",
   "description": "Javascript SDK for Mapzen products",
   "main": "src/js/mapzen.js",
   "directories": {
